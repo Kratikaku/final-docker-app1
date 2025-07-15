@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: springboot-demo
-        image: yourdockerhub/springboot-demo:latest
+        image: kratikaku/springboot-demo:latest
         ports:
         - containerPort: 8080
